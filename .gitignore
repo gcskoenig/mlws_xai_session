@@ -1,0 +1,8 @@
+# Ignore everything
+*
+
+# Except the exercises notebook
+!feature_importance_exercises.ipynb
+
+# Always allow .gitignore itself
+!.gitignore
